@@ -1,0 +1,8 @@
+# welcome_message.py
+
+def main():
+    name = input("James: ")
+    print(f"Welcome, {name}!")
+
+if __name__ == "__main__":
+    main()
